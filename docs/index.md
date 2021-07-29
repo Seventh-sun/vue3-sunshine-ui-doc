@@ -1,11 +1,9 @@
 ---
-home: false
-heroImage: /logo.svg
+home: true
+heroImage: /icon.svg
 actionText: Get Started
-actionLink: /guide/
+actionLink: /components/button
 
-altActionText: Learn More
-altActionLink: /guide/
 
 features:
     - title: 💡 Instant Server Start
@@ -20,5 +18,5 @@ features:
       details: Rollup-superset plugin interface shared between dev and build.
     - title: 🔑 Fully Typed APIs
       details: Flexible programmatic APIs with full TypeScript typing.
-footer: MIT Licensed | Copyright © 2021-present 君惜
+footer: MIT Licensed | Copyright © 2021-present 刘鸣钦
 ---

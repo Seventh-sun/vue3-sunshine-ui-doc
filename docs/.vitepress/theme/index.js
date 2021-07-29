@@ -1,7 +1,9 @@
 import theme from 'vitepress/dist/client/theme-default'
 import 'vitepress-theme-demoblock/theme/styles/index.css'
 import { registerComponents } from './register-components'
-import * as sunshine from 'vue3-sunshine-ui'
+import sunshine from 'vue3-sunshine-ui'
+import 'vue3-sunshine-ui/dist/es/index.css'
+import './styles/index.css'
 
 export default {
   ...theme,
@@ -9,7 +11,7 @@ export default {
     // app is the Vue 3 app instance from createApp()
     // router is VitePress' custom router (see `lib/app/router.js`)
     // siteData is a ref of current site-level metadata.
-    // app.component(Button.name, Button)
+    
     app.use(sunshine)
     registerComponents(app)
   }

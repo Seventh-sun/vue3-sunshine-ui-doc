@@ -1371,10 +1371,10 @@ vitepress@^0.15.5:
     vite "^2.3.7"
     vue "^3.1.1"
 
-vue3-sunshine-ui@^0.0.18:
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/vue3-sunshine-ui/-/vue3-sunshine-ui-0.0.18.tgz#f93900d7069561ed306b2f52ee3a201d4d2b9782"
-  integrity sha512-plG4v55D6dajeQnpVgELhnNFNOPn1JWXw8YtyTTVF9Bud+vvkkj349Mt0BGmH2g6Ydp1Nys9mLbnmNYjOQLwsA==
+vue3-sunshine-ui@^0.0.19:
+  version "0.0.19"
+  resolved "https://registry.nlark.com/vue3-sunshine-ui/download/vue3-sunshine-ui-0.0.19.tgz#256c7eafd3717347a3704b21f631a8a41dac6da0"
+  integrity sha1-JWx+r9Nxc0ejcEsh9jGopB2sbaA=
   dependencies:
     "@liumingqin/button" latest
 

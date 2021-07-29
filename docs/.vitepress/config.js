@@ -6,8 +6,7 @@ module.exports = {
   title: 'sunshineUI',
   description: 'Life is short, Keep it simple.',
   head: [
-    // ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]
-    ['link', {rel: 'stylesheet', type: 'text/css', href: 'https://unpkg.com/element-plus/lib/theme-chalk/index.css'}]
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/icon.svg' }]
   ],
   base: base,
   themeConfig: {

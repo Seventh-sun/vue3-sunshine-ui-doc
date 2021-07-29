@@ -10,7 +10,7 @@
     "register:components": "vitepress-rc"
   },
   "dependencies": {
-    "vue3-sunshine-ui": "^0.0.18"
+    "vue3-sunshine-ui": "^0.0.19"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
